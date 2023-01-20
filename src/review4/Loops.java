@@ -2,7 +2,7 @@ package review4;
 import java.util.Scanner;
 public class Loops {
     public static void main(String[] args) {
-/*
+
 
 
         // While loop
@@ -25,9 +25,9 @@ public class Loops {
         do {
             System.out.println("Do you understand loops in Java");
             answer = scan.nextLine();
-        } while (!answer.equalsIgnoreCase(anotherString:"yes")) ;
+        } while (!answer.equalsIgnoreCase("yes")) ;
 
-*/
+
 
     }
 }
