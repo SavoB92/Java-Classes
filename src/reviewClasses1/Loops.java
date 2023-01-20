@@ -1,4 +1,4 @@
-package review4;
+package reviewClasses1;
 import java.util.Scanner;
 public class Loops {
     public static void main(String[] args) {

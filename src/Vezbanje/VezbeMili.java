@@ -1,4 +1,4 @@
-package Vezbe;
+package Vezbanje;
 
 public class VezbeMili {
         public static void main(String []args) {

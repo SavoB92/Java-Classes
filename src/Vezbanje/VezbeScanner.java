@@ -1,4 +1,4 @@
-package Vezbe;
+package Vezbanje;
 import java.util.*;
 public class VezbeScanner {
     public static void main(String[] args) {

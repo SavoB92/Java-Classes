@@ -1,4 +1,4 @@
-package review4;
+package reviewClasses1;
 public class NestedLoops {
     public static void main(String[] args) {
 // When we are talking about nested loops we are talking about the loops inside other loops.
