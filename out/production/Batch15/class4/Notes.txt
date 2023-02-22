@@ -1,0 +1,34 @@
+Operators:
+   Operators are different symbols that we can use to perform operations like addition, subtraction, divide, module etc. (+, -, /, *, %)
+   We have options to compare things if two entities are same or not if a number is greater the other number ot not.
+
+   There are 3 main types of operators. Arithmetic operators, relational operators and logical operators.
+Arithmetic operators:
+   We use arithmetic operators to perform simple math operations. Like additions, subtraction etc.
+   + to perform addition
+   - to perform subtraction
+   / to perform division
+   * to perform multiplication
+   % to perform modulus
+Relational operators:
+   We use relational operators to compare two entities or quantities. For example if something is greater than the other, or if two numbers are same or not. Or if two boolean variables
+contain same value or not.
+   == it is used to check if two variables contain the same value or not if same we get true otherwise we get false.
+   != used to check if two variables do not contain the same value. We get a true if they are not same.
+   > used to check if one value is greater than other value or not. If greater we get TRUE.
+   < used to check if one value is smaller than other value or not. If smaller than we get TRUE.
+   >= used to check if something is greater or equal than the other value. If greater or equal we get TRUE.
+   <= used to check if something is smaller or equal than the other value. If smaller or equal we get TRUE.
+Conditional constructs
+   Used to write conditional codes. Piece of code that executes based on condition. If condition is true, JAVA executes the code, otherwise it skips that code.
+How to write ifelse conditions:
+   if(){
+      any line of code
+   }else{
+      any line of code
+   }
+
+Important notes:
+   1) For String we use equals method instead of == sign because it is a non-primitive data type.
+   2) If we are confused about brackets we can click on opening or closing part to check the other part. If they are messed up we can use CTRL+ALT+L for InteliJ to organize it for us or
+   COMMAND+OPTION+L for MAC.
